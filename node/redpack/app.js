@@ -35,8 +35,6 @@ var proxy = require('http-proxy-middleware');//引入代理中间件
 /*
 var dataProxy = proxy('/data', { target: "http://www.imooc.com/", changeOrigin: true });//将服务器代理到http://www.imooc.com上，本地服务器为localhost:3000
 app.use('/data/*', dataProxy);//data子目录下的都是用代理*/
-//var dataProxy = proxy({ target: "http://test.posqm.cn/", changeOrigin: true });//将服务器代理到http://www.imooc.com上，本地服务器为localhost:3000
-//app.use('/routes/*', dataProxy);
 //app.use('/API', proxy({ target: 'http://test.posqm.cn',   changeOrigin: true, pathRewrite: {'/API' : ''} }));
 
 
