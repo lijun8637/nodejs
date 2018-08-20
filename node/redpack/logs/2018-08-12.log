@@ -1,1 +1,0 @@
-::ffff:127.0.0.1 - - [12/Aug/2018:03:27:03 +0000] "GET /findUserInfo?userId=US20180811103448ALN2FW HTTP/1.1" 200 188 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
